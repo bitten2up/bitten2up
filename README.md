@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @litten2up
 - 👀 I’m interested in C 2d game programmimg
-- 🌱 I’m currently learning SDL2
-- 💞️ I’m looking to collaborate on Making a 2d rpg
+- 🌱 I’m currently learning cpp, SDL2, and sfml
 - 📫 How to reach me mail://seant9140@gmail.com
 
 <!---
