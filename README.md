@@ -8,4 +8,3 @@ litten2up/litten2up is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![bittenlogo](bitten-1.jpg)
-meow? she/her
